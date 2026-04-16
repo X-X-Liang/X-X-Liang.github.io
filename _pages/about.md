@@ -1,18 +1,20 @@
 ---
-layout: about
-title: about
+layout: About
+title: Xiao-Xuan Liang Ph.D
+       梁晓轩 博士
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Senior Scientist</a>. University of Luebeck. Email: x.liang at uni-luebeck dot de
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: xxL.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+    <p>Institute of Biomedical Optics</p>
+    <p>University of Luebeck</p>
+    <p>Peter-Monnik-Weg 4</p>
+    <p>Luebeck, 23558</p>
+    <p>Germany</p>
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
