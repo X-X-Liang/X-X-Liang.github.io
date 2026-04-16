@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-xiao-xuan-liang-ph-d-梁晓轩-博士",
+    title: "Xiao-Xuan Liang Ph.D 梁晓轩 博士",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
