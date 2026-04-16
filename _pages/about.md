@@ -1,6 +1,6 @@
 ---
-layout: About
-title: Xiao-Xuan Liang Ph.D 梁晓轩 博士
+layout: about
+title: about
 permalink: /
 subtitle: <a href='#'>Senior Scientist</a>. University of Luebeck. Email x.liang at uni-luebeck dot de
 
