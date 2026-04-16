@@ -6,7 +6,7 @@ subtitle: <a href='#'>Senior Scientist</a>. University of Luebeck. Email x.liang
 
 profile:
   align: right
-  image: xxL.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Institute of Biomedical Optics</p>
