@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Senior Scientist</a>. University of Luebeck. Email x.liang at uni-luebeck dot de
+subtitle: <a href='#'>梁晓轩 博士</a>. Senior Scientist
 
 profile:
   align: right
