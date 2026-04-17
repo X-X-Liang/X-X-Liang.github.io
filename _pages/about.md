@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>梁晓轩 博士</a>. Senior Scientist
+subtitle: <a href='#'>梁晓轩 博士 | Senior Scientist</a>
 
 profile:
   align: right
