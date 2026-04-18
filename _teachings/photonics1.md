@@ -10,7 +10,7 @@ time: Thursdays, 8:15-9:45 AM
 
 ---
 
-> **🌟 Course Highlight: Bridging Theory and Practice** > A cornerstone of this course is the seamless integration of theoretical concepts with **live physical experiments and numerical simulations**. To bring abstract physics to life, lectures feature real-time demonstrations of phenomena such as the photoemission effect and optical diffraction. Furthermore, we utilize interactive online numerical tools to visualize complex mechanisms, such as imaging through lenses. This dual approach ensures students not only learn the math but truly experience photonics in action.
+> **🌟 Course Highlight: Bridging Theory and Practice** > A highlight of this course is the seamless integration of theoretical concepts with **live physical experiments and numerical simulations**. To bring abstract physics to life, lectures feature real-time demonstrations of phenomena such as the photoemission effect and optical diffraction. Furthermore, we utilize interactive online numerical tools to visualize complex mechanisms, such as imaging through lenses. This dual approach ensures students not only learn the math but truly experience photonics in action.
 
 ### Course Details
 * **Level:** Master's Program
