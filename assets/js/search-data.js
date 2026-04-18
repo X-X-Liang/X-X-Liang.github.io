@@ -496,16 +496,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-photonics-i",
-          title: 'Photonics I',
-          description: "A Master&#39;s level course covering the fundamentals of optics and modern optoelectronic devices, with a strong focus on applications in biomedical engineering.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
+            },},{id: "teachings-photonics-i",
+          title: 'Photonics I',
+          description: "A Master&#39;s level course covering the fundamentals of optics and modern optoelectronic devices, with a strong focus on applications in biomedical engineering.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/photonics1/";
             },},{
         id: 'social-cv',
         title: 'CV',
