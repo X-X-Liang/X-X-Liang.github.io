@@ -7,6 +7,9 @@ year: 2025-2026
 term: Winter
 location: Institute of Biomedical Optics, lecture hall
 time: Thursdays, 8:15-9:45 AM
+importance: 1
+category: graduate
+img: assets/img/photonics1_ws25-26.png
 
 ---
 
