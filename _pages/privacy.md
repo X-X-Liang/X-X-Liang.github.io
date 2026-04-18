@@ -16,7 +16,7 @@ Institute of Biomedical Optics
 University of Luebeck  
 Peter-Monnik-Weg 4  
 23562 Luebeck, Germany  
-Email: x.liang@uni-luebeck.de
+Email: x.liang [at] uni-luebeck [dot] de
 
 ### 2. Hosting (GitHub Pages)
 This website is hosted on GitHub Pages, a service provided by GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA.
