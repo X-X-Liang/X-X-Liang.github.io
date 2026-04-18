@@ -13,7 +13,7 @@ Peter-Monnik-Weg 4
 23562 Luebeck, Germany
 
 **Contact:**
-Email: x.liang@uni-luebeck.de
+Email: x.liang [at] uni-luebeck [dot] de
 
 **Disclaimer:** This is a personal academic homepage. The views and opinions expressed here are my own and do not necessarily represent the views of the University of Luebeck. 
 
