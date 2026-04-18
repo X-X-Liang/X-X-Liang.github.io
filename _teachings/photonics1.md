@@ -26,4 +26,17 @@ time: Thursdays, 8:15-9:45 AM
 - "Optics" by Hecht, E.
 - "Optics and Lasers: Including Fibers and Optical Waveguides" by Young, M.
 - "Fundamentals of Photonics" by B. Saleh, Teich
+  
+### 👨‍🏫 Teaching History & Roles
 
+| Semester | Role | Responsibility |
+| :--- | :--- | :--- |
+| **Winter 2025/26** | **Lead Instructor** | Full course responsibility, curriculum design, and examinations. |
+| **Winter 2024/25** | **Teaching Assistant** | Supported the lecture led by **Prof. Dr. Gereon Hüttmann**; led exercise sessions. |
+
+---
+
+### 🌟 From Support to Leadership
+My journey with *Photonics I* began in 2024, where I focused on the exercise sessions while supporting Prof. Hüttmann's lectures. In the 2025-2026 semester, I transitioned into the role of Lead Instructor, taking over the full pedagogical responsibility for the course. 
+
+This transition allowed me to integrate my own research insights and live-demonstration concepts (such as photoemission and diffraction experiments) into the established curriculum.
