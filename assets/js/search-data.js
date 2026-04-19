@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Empowering students through the integration of theoretical concepts with live physical experiments and numerical simulations.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
