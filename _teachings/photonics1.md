@@ -19,17 +19,20 @@ img: assets/img/photonics1_ws25-26.png
 * **Level:** Master's Program
 * **Language:** English
 
+<br> <br>
 ### Core Topics Covered
 * **Foundations:** Ray optics, wave optics, and quantum optics.
 * **Classical Optics:** Lenses, mirrors, prisms, and waveguides/optical fibers.
 * **Modern Optoelectronics:** LEDs, photodiodes, CMOS cameras, diode lasers, radiation sources, and detectors.
 * **Advanced Applications:** Implementations in biomedical engineering, augmented by insights into current, ongoing research projects.
 
+<br> <br>
 ## Textbooks
 - "Optics" by Hecht, E.
 - "Optics and Lasers: Including Fibers and Optical Waveguides" by Young, M.
 - "Fundamentals of Photonics" by B. Saleh, Teich
-  
+
+<br> <br>  
 ### 👨‍🏫 Teaching History & Roles
 
 | Semester | Role | Responsibility |
