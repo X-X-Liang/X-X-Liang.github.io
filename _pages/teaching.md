@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Empowering students through the integration of theoretical concepts with live physical experiments and numerical simulations.
+description:
 nav: true
 nav_order: 6
 ---
