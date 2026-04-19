@@ -28,8 +28,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I am **Xiao-Xuan Liang** (feel free to call me Joe), a Senior Scientist at the **Institute of Biomedical Optics** at the University of Luebeck, Germany. I received my Ph.D. in Biophysics (equivalent to *Dr. rer. nat.*) from Xi'an Jiaotong University in 2019. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research is deeply rooted in the **theoretical modeling of light-matter interactions**. Specifically, I focus on **laser-induced optical breakdown in water** (plasma generation, bubble formation, and shockwaves), **photodamage in nonlinear microscopy**, and **non-resonant plasmonic effects**. The ultimate goal of my theoretical work is to translate these physical insights into practical improvements for **cellular and tissue surgery** and laser-induced molecular modifications.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Driven by this research vision, I have published my work in esteemed journals such as *PNAS*, *Optica*, and the *Journal of Fluid Mechanics* (*JFM*), and have had the privilege of sharing my findings through various invited talks and scientific presentations.
+
+In addition to my research, I serve as an Editorial Board Member for *Biomedical Instrumentation* and the *Chinese Journal of Lasers* (01.2022–12.2024). I actively contribute to the scientific community as a peer reviewer for over 10 journals, including *Optica*, *Optics Express*, *Biomedical Optics Express*, *JFM*, and *Physics of Fluids*. I am also a proud member of Optica and SPIE.
+
+Beyond the lab, I consider myself an expert in **"kitchen chemistry"**—where the laughter and praise from my *Mäuschen* act as the ultimate catalyst to enhance the Maillard reaction and stimulate dopamine release!
