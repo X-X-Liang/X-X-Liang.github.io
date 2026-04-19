@@ -19,20 +19,17 @@ thumbnail: /assets/img/photonics1_ws25-26.png
 * **Level:** Master's Program
 * **Language:** English
 
-<br> <br>
 #### Core Topics Covered
 * **Foundations:** Ray optics, wave optics, and quantum optics.
 * **Classical Optics:** Lenses, mirrors, prisms, and waveguides/optical fibers.
 * **Modern Optoelectronics:** LEDs, photodiodes, CMOS cameras, diode lasers, radiation sources, and detectors.
 * **Advanced Applications:** Implementations in biomedical engineering, augmented by insights into current, ongoing research projects.
 
-<br> <br>
 #### Textbooks
 - "Optics" by Hecht, E.
 - "Optics and Lasers: Including Fibers and Optical Waveguides" by Young, M.
 - "Fundamentals of Photonics" by B. Saleh, Teich
 
-<br> <br>  
 #### 👨‍🏫 Teaching History & Roles
 
 | Semester | Role | Responsibility |
@@ -42,7 +39,7 @@ thumbnail: /assets/img/photonics1_ws25-26.png
 
 ---
 
-🌟 From Support to Leadership
+🌟 From Support to Leadership:
 My journey with *Photonics I* began in 2024, where I focused on the exercise sessions while supporting Prof. Hüttmann's lectures. In the 2025-2026 semester, I transitioned into the role of Lead Instructor, taking over the full pedagogical responsibility for the course. 
 
 This transition allowed me to integrate my own research insights and live-demonstration concepts (such as photoemission and diffraction experiments) into the established curriculum.
