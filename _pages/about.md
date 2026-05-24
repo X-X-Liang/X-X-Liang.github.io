@@ -12,7 +12,7 @@ profile:
     <p>Institute of Biomedical Optics</p>
     <p>University of Luebeck</p>
     <p>Peter-Monnik-Weg 4</p>
-    <p>Luebeck, 23558</p>
+    <p>Luebeck, 23562</p>
     <p>Germany</p>
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
