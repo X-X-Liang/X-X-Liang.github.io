@@ -25,12 +25,12 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 5 # leave blank to include all the blog posts
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 Welcome! I am **Xiao-Xuan Liang** (feel free to call me Joe), a Senior Scientist at the **Institute of Biomedical Optics** at the University of Luebeck, Germany. I received my Ph.D. in Biophysics (equivalent to *Dr. rer. nat.*) from Xi'an Jiaotong University in 2019. 
 
-My research is deeply rooted in the **theoretical modeling of light-matter interactions and their applications in laser surgery and advanced biophotonics**. Specifically, I focus on laser-induced optical breakdown in water (plasma generation, bubble formation, and shockwaves), photodamage in nonlinear microscopy, and non-resonant plasmonic effects. The ultimate goal of my theoretical work is to translate these physical insights into practical improvements for **cellular and tissue surgery** and laser-induced molecular modifications.
+My research is deeply rooted in the **theoretical modeling of light-matter interactions and their applications in laser surgery and advanced biophotonics**. Specifically, I focus on laser-induced optical breakdown in water (plasma generation, bubble formation, and shockwaves), photodamage in nonlinear microscopy, and non-resonant plasmonic effects. The ultimate goal of my theoretical work is to translate these physical insights into practical improvements for cellular and tissue surgery and laser-induced molecular modifications.
 
 Driven by this research vision, I have published my work in esteemed journals such as *PNAS*, *Optica*, and the *Journal of Fluid Mechanics* (*JFM*), and have had the privilege of sharing my findings through various invited talks and scientific presentations.
 
