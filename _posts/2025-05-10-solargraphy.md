@@ -7,6 +7,7 @@ tags: photography optics
 categories: beyond-the-lab
 thumbnail: assets/img/solargraphy_positive.jpg
 citation: false
+featured: true
 images:
   compare: true
   slider: true
