@@ -80,7 +80,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/images/";
+            window.location.href = "/blog/2025/deep_sky_images/";
           
         },
       },{id: "post-capturing-time-a-four-month-solargraphy-experiment",
