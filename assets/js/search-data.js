@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-capturing-time-a-four-month-solargraphy-experiment",
+            },{id: "post-from-backyard-stargazing-to-photonics-the-physics-of-smart-telescopes",
+        
+          title: "From Backyard Stargazing to Photonics: The Physics of Smart Telescopes",
+        
+        description: "Exploring the intersection of deep-sky astrophotography, signal-to-noise averaging, and semiconductor physics.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/images/";
+          
+        },
+      },{id: "post-capturing-time-a-four-month-solargraphy-experiment",
         
           title: "Capturing Time: A Four-Month Solargraphy Experiment",
         
@@ -411,17 +422,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2015/code/";
-          
-        },
-      },{id: "post-a-post-with-images",
-        
-          title: "a post with images",
-        
-        description: "this is what included images could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/images/";
           
         },
       },{id: "post-a-post-with-formatting-and-links",
