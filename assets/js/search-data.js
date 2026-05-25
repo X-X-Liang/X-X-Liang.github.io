@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-solargraphy-by-a-pin-hole-camera",
+            },{id: "post-capturing-time-a-four-month-solargraphy-experiment",
         
-          title: "Solargraphy by a pin-hole camera",
+          title: "Capturing Time: A Four-Month Solargraphy Experiment",
         
-        description: "this is what advanced image components could look like",
+        description: "Bridging theoretical ray optics and real-world observation through an extreme long-exposure pinhole camera",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/solargraphy/";
+            window.location.href = "/blog/2025/solargraphy/";
           
         },
       },{id: "post-a-post-with-plotly-js",
