@@ -6,6 +6,7 @@ description: Bridging theoretical ray optics and real-world observation through 
 tags: photography optics
 categories: beyond-the-lab
 thumbnail: assets/img/solargraphy_positive.jpg
+citation: true
 images:
   compare: true
   slider: true
