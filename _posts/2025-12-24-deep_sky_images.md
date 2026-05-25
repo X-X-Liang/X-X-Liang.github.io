@@ -5,6 +5,7 @@ date: 2025-12-24 21:01:00
 description: Exploring the intersection of deep-sky astrophotography, signal-to-noise averaging, and semiconductor physics.
 tags: photography optics teaching astronomy
 categories: teaching
+featured: true
 thumbnail: assets/img/GreatOrion.jpg
 ---
 
