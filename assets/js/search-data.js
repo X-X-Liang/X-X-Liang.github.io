@@ -83,6 +83,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/deep_sky_images/";
           
         },
+      },{id: "post-our-theoretical-model-highlighted-in-a-recent-review-by-prof-léon-sanche",
+        
+          title: "Our Theoretical Model Highlighted in a Recent Review by Prof. Léon Sanche",
+        
+        description: "Our multi-rate-equation model for fs-laser plasma was featured in Eur. Phys. J. D as a key approach to quantifying LEE-induced DNA damage in live cells.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/sanche/";
+          
+        },
       },{id: "post-capturing-time-a-four-month-solargraphy-experiment",
         
           title: "Capturing Time: A Four-Month Solargraphy Experiment",
@@ -92,17 +103,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/solargraphy/";
-          
-        },
-      },{id: "post-a-post-with-plotly-js",
-        
-          title: "a post with plotly.js",
-        
-        description: "this is what included plotly.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly/";
           
         },
       },{id: "post-a-post-with-image-galleries",
