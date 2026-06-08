@@ -440,11 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-new-original-research-paper-published-in-reports-on-progress-in-physics-if-20-4",
+          title: 'New Original Research Paper Published in Reports on Progress in Physics (IF: 20.4)...',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/announcement_ROPP/";
             },},{id: "news-a-warm-welcome-to-our-new-visiting-doctoral-student-haigang-wen-from-the-china-agricultural-university-haigang-is-joining-our-group-for-a-3-month-research-stay-10-2025-12-2025",
           title: 'A warm welcome to our new visiting doctoral student, Haigang Wen, from the...',
           description: "",
