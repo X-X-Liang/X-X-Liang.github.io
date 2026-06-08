@@ -94,6 +94,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/sanche/";
           
         },
+      },{id: "post-jfm-2022-paper-selected-among-top-10-cited-articles-for-2024-impact-factor",
+        
+          title: "JFM 2022 Paper Selected Among Top 10 Cited Articles for 2024 Impact Factor...",
+        
+        description: "Our work on spherical bubble dynamics and shock wave emission has been recognized by the Journal of Fluid Mechanics.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/JFM/";
+          
+        },
       },{id: "post-capturing-time-a-four-month-solargraphy-experiment",
         
           title: "Capturing Time: A Four-Month Solargraphy Experiment",
@@ -125,17 +136,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
-      },{id: "post-a-post-with-tabs",
-        
-          title: "a post with tabs",
-        
-        description: "this is what included tabs in a post could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/tabs/";
           
         },
       },{id: "post-a-post-with-typograms",
