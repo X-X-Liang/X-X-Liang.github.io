@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-new-original-research-paper-published-in-reports-on-progress-in-physics-if-20-4",
-          title: 'New Original Research Paper Published in Reports on Progress in Physics (IF: 20.4)...',
+            },},{id: "news-new-original-research-paper-published-in-reports-on-progress-in-physics-if-20-7",
+          title: 'New Original Research Paper Published in Reports on Progress in Physics (IF: 20.7)...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_ROPP/";
