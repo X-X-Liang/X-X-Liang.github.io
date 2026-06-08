@@ -445,10 +445,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_ROPP/";
-            },},{id: "news-a-warm-welcome-to-our-new-visiting-doctoral-student-haigang-wen-from-the-china-agricultural-university-haigang-is-joining-our-group-for-a-3-month-research-stay-10-2025-12-2025",
-          title: 'A warm welcome to our new visiting doctoral student, Haigang Wen, from the...',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
