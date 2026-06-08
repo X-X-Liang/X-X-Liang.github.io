@@ -448,7 +448,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-a-warm-welcome-to-our-new-visiting-doctoral-student-qinghan-hou-from-the-ocean-university-of-china-qinghan-is-joining-our-group-for-a-3-month-research-stay-04-2026-06-2026-supported-by-the-sino-german-mobility-program-under-my-supervision-he-will-be-working-on-the-spatiotemporal-modeling-of-laser-induced-plasma-formation-in-aqueous-media-further-advancing-the-research-on-ultrashort-laser-pulse-energy-deposition",
+          section: "News",},{id: "news-a-warm-welcome-to-our-new-visiting-doctoral-student-qinghan-hou-from-the-ocean-university-of-china-qinghan-is-joining-our-group-for-a-3-month-research-stay-04-2026-06-2026",
           title: 'A warm welcome to our new visiting doctoral student, Qinghan Hou, from the...',
           description: "",
           section: "News",},{id: "projects-project-1",
