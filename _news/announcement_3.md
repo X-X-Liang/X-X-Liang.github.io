@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-10-01 08:00:00
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+A warm welcome to our new visiting doctoral student, Haigang Wen, from the China Agricultural University! Haigang is joining our group for a 3-month research stay (10.2025-12.2025).
