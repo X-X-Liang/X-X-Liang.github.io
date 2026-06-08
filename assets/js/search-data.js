@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-a-warm-welcome-to-our-new-visiting-doctoral-student-qinghan-hou-from-the-ocean-university-of-china-qinghan-is-joining-our-group-for-a-3-month-research-stay-04-2026-06-2026-supported-by-the-sino-german-mobility-program-under-my-supervision-he-will-be-working-on-the-spatiotemporal-modeling-of-laser-induced-plasma-formation-in-aqueous-media-further-advancing-the-research-on-ultrashort-laser-pulse-energy-deposition",
+          title: 'A warm welcome to our new visiting doctoral student, Qinghan Hou, from the...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
