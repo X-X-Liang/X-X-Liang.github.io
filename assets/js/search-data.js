@@ -445,6 +445,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_ROPP/";
+            },},{id: "news-software-release-libdar-v1-1-0-now-available-on-zenodo",
+          title: 'Software Release: LIBDAR v1.1.0 Now Available on Zenodo',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/LIBDAR/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
