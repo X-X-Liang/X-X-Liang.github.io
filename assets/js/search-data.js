@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-from-backyard-stargazing-to-photonics-the-physics-of-smart-telescopes",
+            },{id: "post-observing-the-august-2026-partial-solar-eclipse",
+        
+          title: "Observing the August 2026 Partial Solar Eclipse",
+        
+        description: "Capturing the 85% partial solar eclipse over Lübeck, complete with sunspots and a lesson in optical attenuation.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/solar-eclipse/";
+          
+        },
+      },{id: "post-from-backyard-stargazing-to-photonics-the-physics-of-smart-telescopes",
         
           title: "From Backyard Stargazing to Photonics: The Physics of Smart Telescopes",
         
@@ -136,17 +147,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
-      },{id: "post-a-post-with-typograms",
-        
-          title: "a post with typograms",
-        
-        description: "this is what included typograms code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/typograms/";
           
         },
       },{id: "post-a-post-that-can-be-cited",
