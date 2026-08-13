@@ -6,7 +6,7 @@ subtitle: <a href='#'>梁晓轩 博士 | Senior Scientist</a>
 
 profile:
   align: right
-  image: xxL-biography.JPG
+  image: xxL-biography.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Institute of Biomedical Optics</p>
