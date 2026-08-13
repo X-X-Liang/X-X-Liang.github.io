@@ -37,12 +37,25 @@ If you look closely at the un-eclipsed portions of the Sun in the images above, 
 
 Despite looking like blemishes, these are actually areas of intense magnetic activity on the Sun's surface (the photosphere). The magnetic fields here are so strong that they inhibit the convection of heat from the solar interior. As a result, these spots are about 1,500 to 2,000 degrees Celsius cooler than the surrounding surface. Because they are cooler, they emit less light and appear dark to our cameras—though if you could somehow isolate a sunspot from the rest of the Sun, it would still shine brighter than the full moon!
 
-### A Quick Trip Back in Time
+### A Quick Trip Back in Time: Chasing the Eclipse at Mach 2
 
-Eclipses have fascinated humanity for millennia, often altering the course of history. One of the most famous examples is the **Battle of the Eclipse** in 585 BC. 
+Speaking of eclipses — did you know someone once turned a 7-minute totality into 74?
 
-According to the ancient Greek historian Herodotus, the Medes and the Lydians had been locked in a grueling war for five years. During a fierce battle, the sky suddenly went dark as a total solar eclipse passed overhead. Both armies, interpreting the sudden disappearance of the Sun as a sign of divine anger, immediately ceased fighting and negotiated a peace treaty, ending the war on the spot. Interestingly, the Greek philosopher Thales of Miletus is said to have successfully predicted this exact eclipse, marking one of the earliest recorded triumphs of astronomical calculation.
+On June 30, 1973, a team of scientists did exactly that. They boarded Concorde 001, the sleek supersonic prototype, and chased the Moon's shadow across Africa at Mach 2.05. The goal? To study the Sun's corona — that mysterious outer atmosphere that jumps from 5,000°C to over a million degrees — which is only visible during totality.
 
-Today, we no longer stop wars over them, but eclipses still offer a rare moment to pause and look up in collective wonder. 
+From the ground, totality lasts at most 7 minutes and 4 seconds. Barely enough time for serious science. But at 17,000 metres, above 90% of the atmosphere, Concorde matched the shadow's speed perfectly. The result? **74 consecutive minutes of darkness**.
 
-If you missed yesterday's event, mark your calendars: the next decent partial eclipse visible from Central Europe won’t be until 2027. Until then, keep looking up!
+Chief pilot André Turcat intercepted the eclipse with just one second of error. The scientists on board—from France, Britain, and the US—gathered data that would have been impossible from the ground. That 74-minute record stands to this day. 
+
+Not bad for a plane originally built to cross the Atlantic in three hours!
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <div class="ratio ratio-16x9 z-depth-1 rounded">
+            <iframe src="https://www.youtube.com/embed/mzwwofB5_Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+<div class="caption">
+    A fantastic short documentary covering the incredible 1973 Concorde 001 eclipse-chasing mission.
+</div>
