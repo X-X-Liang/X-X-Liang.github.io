@@ -49,11 +49,10 @@ Chief pilot André Turcat intercepted the eclipse with just one second of error.
 
 Not bad for a plane originally built to cross the Atlantic in three hours!
 
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <div class="ratio ratio-16x9 z-depth-1 rounded">
-            <iframe src="https://www.youtube.com/embed/mzwwofB5_Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        </div>
+        <iframe src="https://www.youtube.com/embed/mzwwofB5_Nc" style="width: 100 %; aspect-ratio: 16/9;" class="rounded z-depth-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption">
